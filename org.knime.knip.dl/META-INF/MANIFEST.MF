@@ -5,7 +5,7 @@ Bundle-SymbolicName: org.knime.knip.dl;singleton:=true
 Bundle-Version: 1.0.1.qualifier
 Bundle-Vendor: KNIME GmbH
 Require-Bundle: org.knime.knip.base;bundle-version="1.5.0",
- scijava-common;bundle-version="2.47.0",
+ org.scijava.common;bundle-version="2.76.1",
  imagej-common;bundle-version="0.18.0",
  org.knime.knip.core;bundle-version="1.5.0",
  imagej-ops;bundle-version="0.22.0",
